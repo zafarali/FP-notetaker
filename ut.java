@@ -1,6 +1,5 @@
 import java.util.*;
-/*This class contains methods that are small scripts used to make
- * method creation easy.
+/*This class contains supplementary utilities to make the main FP program work
  * ~ Zafarali Ahmed 2013
  * */
 
