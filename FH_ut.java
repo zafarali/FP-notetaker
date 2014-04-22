@@ -2,9 +2,9 @@ import java.util.*;
 import java.io.*;
 
 public class FH_ut{
- /*This class contains methods that are automated so that you 
-  * do not need to write multiple try catch blocks of code 
-  * Safely establish a connection
+ //FH_ut = file handler utilities
+ /*This class contains utilities which have try/catch in them so you do not
+ *need to implement this in the main program
   * Zafarali Ahmed 2013
   * */
   
